@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Jul 2024 16:05:27 at https://www.muhibbahseafood.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.muhibbahseafood.com/ -O1 "C:\arenabet88\COPY" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:05:32	Warning: 	Found for https://www.muhibbahseafood.com/robots.txt
+16:05:32	Warning: 	File has moved from https://www.muhibbahseafood.com/robots.txt to https://www.muhibbahseafood.com/
+16:08:27	Warning: 	Retry after error -2 (Receive Time Out) at link https://s12.gifyu.com/images/SrqzE.gif (from https://www.muhibbahseafood.com/amp/)
+16:09:25	Error: 	"Cancelled by User" (-1) at link https://s12.gifyu.com/images/SrqzE.gif (from https://www.muhibbahseafood.com/amp/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 58 seconds : 41 links scanned, 38 files written (2356016 bytes overall) [856901 bytes received at 3600 bytes/sec], 1833082 bytes transferred using HTTP compression in 8 files, ratio 14%, 3.8 requests per connection
+(1 errors, 3 warnings, 0 messages)
